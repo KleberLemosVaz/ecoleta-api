@@ -1,0 +1,14 @@
+{
+    "name": "Mercado Imperatriz",
+        "email": "contato@imperatriz.com.br",
+"whatsapp": "1399999999",
+"latitude": -46.81237,
+"longitude": -35.192384 ,
+"city":"Santos",
+"uf":"SP",
+"items": [
+            1,
+            2,
+            5
+        ]
+}

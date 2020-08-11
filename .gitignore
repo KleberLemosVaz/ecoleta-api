@@ -1,0 +1,8 @@
+node_modules
+uploads/*
+!uploads/.gitkeep
+checklist.txt
+
+*.sqlite
+
+README.md
